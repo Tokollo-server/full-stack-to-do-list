@@ -26,21 +26,6 @@ The purpose of this application is to:
 
 ---
 
-## Project Structure
-
-my-itunes-project/
-│── public/ # Static assets
-│── src/
-│ ├── components/ # Reusable React components
-│ ├── pages/ # App pages (Search, Favourites, etc.)
-│ ├── hooks/ # Custom React hooks
-│ ├── App.js # Main app component
-│ ├── index.js # Entry point
-│── package.json # Project dependencies
-│── README.md # Project documentation
-
----
-
 ## Installation & Setup
 
 cd my-itune-project
@@ -59,3 +44,7 @@ npm run dev
 - Material UI v5(UI library & theming)
 - iTunes Search API (External REST API)
 - JavaScript (ES6+)
+
+ 
+
+
